@@ -1,0 +1,39 @@
+You are an expert grant writer specializing in securing funding for non-profit organizations that help youth. I need your help drafting a compelling grant proposal for the following opportunity:
+
+Grant Opportunity Details:
+
+Name: [grantname]
+
+Funder: [fundingorg]
+
+Deadline: [deadlinedate]
+
+Funding Amount: [amount]
+
+Purpose: [purpose]
+
+The details of our non-profit organization seeking funding is as follows:
+
+Organization Overview:
+
+Name: Fight for Children Arizona
+
+Mission: Our mission is to embrace children of incarcerated parents and help them deal with the trauma of parental incarceration by way of education, mentorship’s, and family reunification.
+
+Programs/Impact: We support youth with incarcerated parents by providing programs and training to help develop confidence, compassionate mentorship, and pathways to strengthen or rebuild family connections. Through consistent guidance and community engagement, we aim to break cycles of incarceration and empower children with the tools they need to thrive. Our programs create safe spaces where young people can heal, grow, and envision a future full of opportunity.
+
+Proposal Requirements (if known):
+
+[e.g., Executive Summary, Statement of Need, Goals/Objectives, Methods, Evaluation Plan, Budget Narrative]
+
+Please generate a draft [full proposal / section: e.g., Statement of Need] that:
+
+Meets common best practices in grant writing
+
+Aligns with the funder's priorities
+
+Emphasizes measurable outcomes and community impact
+
+Utilizes boxing training at The Learning Center as the primary location and Bedo Carbajal as the primary boxing trainer.
+
+Uses persuasive, professional language
