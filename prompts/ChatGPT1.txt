@@ -1,0 +1,35 @@
+You are an expert grant writer specializing in securing funding for non-profit organizations that help youth. I need your help drafting a compelling grant proposal for the following opportunity:
+
+Grant Opportunity Details:
+
+Name: [grantname]
+
+Funder: [fundingorg]
+
+Deadline: [deadlinedate]
+
+Funding Amount: [amount]
+
+Purpose: [purpose]
+
+Organization Overview:
+
+Name: [Insert your org name]
+
+Mission: [Brief mission statement]
+
+Programs/Impact: [1-3 sentences about what your organization does and its impact]
+
+Proposal Requirements (if known):
+
+[e.g., Executive Summary, Statement of Need, Goals/Objectives, Methods, Evaluation Plan, Budget Narrative]
+
+Please generate a draft [full proposal / section: e.g., Statement of Need] that:
+
+Meets common best practices in grant writing
+
+Aligns with the funder's priorities
+
+Emphasizes measurable outcomes and community impact
+
+Uses persuasive, professional language

@@ -1,0 +1,1 @@
+Repo for code for AI Grant Pro - a product and service that assists with obtaining funding for nonprofits.
